@@ -1,4 +1,4 @@
-// Q: To find the second smallest element in an array
+// Q: Write a program to find the second smallest element in an array
 
 #include <stdio.h>
 

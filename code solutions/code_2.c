@@ -1,4 +1,4 @@
-// Swapping the values using a temporary variable
+// Q: Write a program for swapping the values using a temporary variable
 
 #include <stdio.h>
 int main()
