@@ -12,3 +12,4 @@
 4. [Swapping the two arrays.](https://github.com/darshanr27/c-programming-solutions/blob/master/code%20solutions/code_4.c)
 5. [Swapping the two strings.](https://github.com/darshanr27/c-programming-solutions/blob/master/code%20solutions/code_5.c)
 6. [Reverse an integer.](https://github.com/darshanr27/c-programming-solutions/blob/master/code%20solutions/code_6.c)
+7. [Command Line Argument program to find factorial of a number](https://github.com/darshanr27/c-programming-solutions/blob/master/code%20solutions/code_7.c)
